@@ -56,6 +56,10 @@ body {
   color: #6d6d6d;
 }
 
+header a.button {
+  float: right;
+}
+
 a {
   color: #d5000d;
 }
